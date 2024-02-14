@@ -1,6 +1,7 @@
+
 # Project Overview
 
-In this project, we'll predict the price of the S&P 500 stock market index.
+In this project, we'll predict the price of the S&P500 stock market index.
 
 ### Project Steps
 
@@ -15,7 +16,7 @@ You can find the code for this project [here](https://github.com/Harsh-Rai-98/St
 
 #### File overview:
 
-- _Stock_Market_Prediction.ipynb_ - a Jupyter notebook that contains all of the code.
+- `Stock_Market_Prediction.ipynb` - a Jupyter notebook that contains all of the code.
 
 # Local Setup
 
@@ -26,11 +27,11 @@ To follow this project, please install the following locally:
 - JupyerLab
 - Python 3.8+
 - Python packages :
-    pandas,
-    yfinance,
-    scikit-learn
+    - pandas
+    - yfinance
+    - scikit-learn
 
 ### Data
 
-We'll download all of the data during the project, using the _yfinance_ package.
+We'll download all of the data during the project, using the `yfinance` package.
 - Data can be downloaded from [here](https://github.com/Harsh-Rai-98/Stock-Market-Prediction-using-Machine-Learning/blob/main/sp500.csv).
